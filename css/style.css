@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Rubik', sans-serif;
+	font-size: 14px;
+	background-color: #591844;
+}
+
+.header i{
+	font-size: 35px;
+	padding: 15px;
+	color: #591844;
+}
+
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+#hola{
+	background-image:url(../img/lum3n-250309-unsplash.jpg);
+	background-repeat: no-repeat;
+  background-size:1350px;
+	text-align: left;
+	padding-bottom: 500px;
+	padding-top: 110px;
+}
+
+#hola h1{
+	font-size: 70px;
+}
+
+#hola p{
+	font-size: 20px;
+	padding-right: 350px;
+}
+
+.btn{
+	margin-right: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.title{
+	padding: 50px;
+	text-align: center;
+	background-color:#591844;
+	color: #fff;
+}
+
+#sobre-mi{
+	color:#3F3F3F;
+	background-color:#F5F5F5;
+}
+
+#sobre-mi-info{
+	font-size: 20px;
+	padding-top: 60px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+#sobre-mi-info ul{
+	font-size: 15px;
+	color: #A8A8A8;
+}
+
+#sobre-mi-info h2{
+	font-size: 70px;
+}
+
+.btn-dark{
+	margin-top: 20px;
+}
+
+#servicios{
+	padding-left: 200px;
+	padding-right: 200px;
+	color: #fff;
+	text-align: left;
+	padding-bottom: 100px;
+}
+
+#servicios h2{
+	font-size: 20px;
+	color: #fff;
+}
+
+#servicios .servicios-titulo{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: left;
+	font-size: 50px;
+}
+
+#servicios p{
+	font-size: 12px;
+}
+
+#servicios i{
+	color: #fff;
+	text-align: center;
+	font-size: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+.logos{
+padding: 70px;
+background-color: #fff;
+
+}
+
+.logos h2{
+	padding-bottom: 50px;
+	text-align: left;
+	font-size: 40px;
+}
+
+
+#contacto{
+	color: #fff;
+}
+
+#llenar-info{
+	padding-top: 80px;
+	padding-left: 60px;
+}
+
+#llenar-info .btn{
+	margin-top: 20px;
+}
+
+#llenar-info h2{
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+
+
+#footer{
+	background-color: #fff;
+	padding: 50px;
+}
+
+#footer i{
+	font-size: 35px;
+	padding-right: 15px;
+	color: #3F3F3F;
+}
+
+#footer h3, p{
+	font-family: 'Rubik', sans-serif; 
+}
+
+#footer h3{
+	font-size: 35px; 
+}
+
+#copyright{
+	padding: 30px;
+	color: #fff;
+	text-decoration: none;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+#portafolio h1{
+	font-size: 50px;
+	
+}
+
+
+
+
