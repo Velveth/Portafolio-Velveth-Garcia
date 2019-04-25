@@ -42,11 +42,7 @@ body{
 	padding-right: 350px;
 }
 
-.btn{
-	margin-right: 50px;
-	padding-left: 30px;
-	padding-right: 30px;
-}
+
 
 .title{
 	padding: 50px;
@@ -176,6 +172,66 @@ background-color: #fff;
 	
 }
 
+/*Tablet*/
+@media (min-width:480px) and (max-width: 1024px){}
 
 
 
+/*Celular*/
+@media (max-width:480px){
+	#hola h1{
+	font-size: 45px;
+		text-align: left;
+	
+	}
+	
+	#hola p{
+	font-size: 15px;
+	padding-right: 20px;
+	}
+	
+	#te-invito h2{
+		font-size: 20px;
+	}
+	
+	#sobre-mi h2{
+		font-size: 45px;
+	}
+	
+	#sobre-mi p{
+		font-size: 15px;
+	}
+	
+	#sobre-mi .btn{
+		margin-bottom: 40px;
+	}
+	
+	
+	#servicios{
+		padding: 10px;
+		text-align: center;
+	}
+	
+	
+	#portafolio h1{
+		font-size: 25px;
+		padding: 5px;
+	}
+	
+	
+	#portafolio p{
+		font-size: 10px;
+	}
+	
+	.logos{
+		text-align: center;
+	}
+	
+	.logos img{
+		margin: 20px;
+	}
+	
+	
+	
+}
+	
